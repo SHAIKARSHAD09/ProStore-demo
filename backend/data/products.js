@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: '1',
     name: 'Apple Airpods Pro (2nd Generation)',
     image: '/images/airpods.jpg',
     description:
@@ -13,7 +12,6 @@ const products = [
     numReviews: 12,
   },
   {
-      _id: '2',
       name: 'Amazon Echo Dot 4th Generation',
       image: '/images/alexa.jpeg',
       description:
@@ -27,7 +25,7 @@ const products = [
   },
   
   {
-    _id: '3',
+
     name: 'Cannon EOS 90D DSLR Camera',
     image: '/images/camera.jpeg',
     description:
@@ -40,7 +38,7 @@ const products = [
     numReviews: 12,
   },
   {
-      _id: '4',
+   
       name: 'Logitech G-102',
       image: '/images/mouse.jpg',
       description:
@@ -53,7 +51,7 @@ const products = [
       numReviews: 10,
   },
   {
-      _id: '5',
+ 
       name: 'iPhone 15',
       image: '/images/phone.jpg',
       description:
@@ -66,7 +64,7 @@ const products = [
       numReviews: 8,
   },
   {
-    _id: '6',
+
     name: 'Sony Playstation 5 Digital Edition',
     image: '/images/playstation.jpg',
     description:
